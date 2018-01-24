@@ -1,24 +1,19 @@
 # James Portfolio Redesign
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Features
 
-Things you may want to cover:
+- Real time chat engine for comments
+- Chat room for tech talk and more
+- Blog
+- Portfolio
+- Drag and drop interface
+- Code challenge with docker 
 
-* Ruby version
 
-* System dependencies
+### Code Example 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+def my_great_method
+    puts "more to come"
+end
+```
