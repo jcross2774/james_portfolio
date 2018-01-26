@@ -5,6 +5,8 @@ class Blog < ApplicationRecord
 
   validates_presence_of :title, :body
 
+  belongs_to :topic
+  
   def should_generate_new_friendly_id?
     slug.blank? || title_changed?
   end
