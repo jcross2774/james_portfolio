@@ -8,6 +8,7 @@
 - Portfolio
 - Drag and drop interface
 - Code challenge with docker 
+- Tags
 
 
 ### Code Example 
